@@ -1,0 +1,33 @@
+#karusel img {
+    width: 100%;
+    height: 600px;
+}
+aside {
+    position: fixed;
+    top: 100px;
+    left: 20px;
+}
+aside a { font-size: 140%;
+    color: #333;
+    font-style: italic;
+    padding: 10%;
+}
+strong {
+    font-size: 150%;
+    text-align: center
+}
+aside a:hover {
+    font-size: 160%
+}
+
+#navdugme {
+    position: fixed;
+    z-index: 1;
+    color: #333;
+    top: 10%;
+    left: 75%;
+}
+ol {
+    color: #333
+}
+
